@@ -6,7 +6,7 @@ public class TestClass extends BaseClass {
 
 	public static void main(String[] args){
 		
-		int n=10;
+		int n=100;
 		
 		TestClass.increament(n);
 	}
